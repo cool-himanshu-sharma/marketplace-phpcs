@@ -1,0 +1,1 @@
+marketplace-phpcs> ./vendor/bin/phpcs --standard=ruleset.xml "C:\Users\coolp\Local Sites\divi-new-plugin\app\public\wp-content\plugins\divi-contact-form-extender"
